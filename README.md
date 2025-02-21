@@ -17,7 +17,7 @@
 <p align="center">Clique para ver 👇</p>
 
 <p align="center">
-    <a href="">
+    <a href="https://ebac-projeto-03-atividade.vercel.app/">
         <img src="images/siteLanchoneteDaRenata.png" alt="Projeto 03 atividade site de uma lachonete"></img>
     </a>
 </p>
