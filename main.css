@@ -1,0 +1,90 @@
+body {
+    font-family: "Oswald", serif;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+.navbar {
+    background-color: #309823;
+}
+
+header .nav .nav-link.active {
+    background-color: #fff;
+    color: #309823;
+}
+
+header .nav .nav-link,
+#cabecalho h1,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #d4ffce;
+}
+
+#sobre .carousel-item img {
+    height: 500px;
+}
+
+.img1 {
+    background-color: #d4ffce;
+}
+
+.img2 {
+    background-color: #ccc;
+}
+
+.imgSobre {
+    background-color: #d4ffce;
+    max-width: 500px;
+    height: 400px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+.imgAmbiente,
+.imgCardapio {
+    background-color: #ccc;
+    height: 200px;
+    display: block;
+}
+
+.imgCardapio {
+    height: 200px;
+    background-color: #ccc;
+}
+
+.imgCardapio1 {
+    height: 200px;
+    background-color: #d4ffce;
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: #309823;
+    color: #fff;
+}
+
+.fontColor,
+.nav-cardapio .nav-link:hover {
+    color: #309823;
+}
+
+#ambiente,
+#contato {
+    background-color: #d4ffce;
+}
+
+.fontColor {
+    color: #000;
+}
+
+textarea {
+    resize: none;
+}
